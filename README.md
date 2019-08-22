@@ -1,6 +1,6 @@
 # simple_screen
 
-A new Flutter project.
+Simple app with listview and detail view with flutter.
 
 ## Getting Started
 
